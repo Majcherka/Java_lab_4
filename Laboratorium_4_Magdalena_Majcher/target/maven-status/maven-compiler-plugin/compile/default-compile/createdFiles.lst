@@ -1,0 +1,4 @@
+util\HibernateUtil.class
+dao\ShapeDAO.class
+main\Main.class
+model\Shape.class
